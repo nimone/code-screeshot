@@ -12,7 +12,7 @@ export default function CodeEditor() {
   useEffect(() => {
     const randomSnippet =
       codeSnippets[Math.floor(Math.random() * codeSnippets.length)]
-    // useStore.setState(randomSnippet)
+    useStore.setState(randomSnippet)
   }, [])
 
   useEffect(() => {
