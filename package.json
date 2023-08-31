@@ -25,6 +25,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hot-toast": "^2.4.1",
+    "react-hotkeys-hook": "^4.4.1",
     "react-simple-code-editor": "^0.13.1",
     "tailwind-merge": "^1.14.0",
     "tailwindcss-animate": "^1.0.6",
